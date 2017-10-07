@@ -1,0 +1,1 @@
+# android-twrp-for-lava-x38-2GB
